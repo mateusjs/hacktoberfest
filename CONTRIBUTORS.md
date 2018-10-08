@@ -1499,6 +1499,11 @@ Noida
 - Bio: Programmer
 - GitHub: [Matan](https://github.com/matan188)
 
+#### Name: Mateus José dos Santos
+ - Place: Cascavel - PR, Brazil
+ - Bio: Computer science student
+ - GitHub: [Mateusjs](https://github.com/mateusjs)
+
 #### Name: [Matei David](https://github.com/Matei207)
 - Place: Birmingham, UK
 - Bio: BSc Student at University of Birmingham
